@@ -28,7 +28,7 @@ author:
     pronouns: # example: "she/her"
     bio: "PhDing in Complex Systems and Data Science" # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK + Computational Social Science, Complex Systems and Economics
     location: "Burlington, Vermont, USA"
-    employer: Vermont Complex Systems Institute # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK ](https://vermontcomplexsystems.org/) #REMOVE ""
+    employer: "Vermont Complex Systems Institute" # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK ](https://vermontcomplexsystems.org/) #REMOVE ""
     uri: # URL
     email: "joao.franco@uvm.edu" #TODO: ADJUST TO HAVE (mailto:joao.franco@uvm.edu) #REMOVE ""
 
