@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "João Franco"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhDing in Complex Systems and Data Science at @UVM and @Vermont Complex Systems Institute.<br> Computational Social Science, Complex Systems and Economics"
+  location         : "Burlington, Vermont, USA"
+  employer         : [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/)
   uri              : # URL
-  email            : "none@example.org" 
+  email            : [joao.franco@uvm.edu](mailto:joao.franco@uvm.edu)
 
   # Academic websites
   academia         : # URL
