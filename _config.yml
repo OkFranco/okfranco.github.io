@@ -23,7 +23,7 @@ repository               : "OkFranco/okfranco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_Figure.jpg"
   name             : "João Franco"
   pronouns         : # example: "she/her"  
   bio              : "PhDing in Complex Systems and Data Science"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/okfranco.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "okfranco.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
