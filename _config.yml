@@ -26,11 +26,11 @@ author:
     avatar: "..\files\main\João Franco - Profile Figure.jpg"
     name: "João Franco"
     pronouns: # example: "she/her"
-    bio: "PhDing in Complex Systems and Data Science" # Computational Social Science, Complex Systems and Economics
+    bio: "PhDing in Complex Systems and Data Science" # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK + Computational Social Science, Complex Systems and Economics
     location: "Burlington, Vermont, USA"
-    employer: [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/) #REMOVE ""
+    employer: Vermont Complex Systems Institute # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK ](https://vermontcomplexsystems.org/) #REMOVE ""
     uri: # URL
-    email: [joao.franco@uvm.edu](mailto:joao.franco@uvm.edu) #REMOVE ""
+    email: joao.franco@uvm.edu #TODO: ADJUST TO HAVE (mailto:joao.franco@uvm.edu) #REMOVE ""
 
   # Academic websites
   # academia         : # URL
@@ -59,28 +59,28 @@ author:
   # artstation       : # Username
   bluesky          : "[@OkFranco](https://bsky.app/profile/okfranco.bsky.social)" #REMOVE "" # Replace this with you Bluesky username
   # facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  # instagram        : # Username
+  # lastfm           : # Username
+  # linkedin         : # Username
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
+  # steam            : # Username
+  # telegram         : # URL
+  # tumblr           : # Username
+  # twitter          : # Username for X / Twitter
+  # vine             : # Username
+  # weibo            : # Username
+  # wikipedia        : # Username
+  # xing             : # Username
+  # youtube          : # Username
+  # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
