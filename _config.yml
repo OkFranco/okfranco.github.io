@@ -23,7 +23,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-    avatar: "..\files\main\João Franco - Profile Figure.jpg"
+    avatar: ../files/main/Profile_Figure.jpg
     name: "João Franco"
     pronouns: # example: "she/her"
     bio: "PhDing in Complex Systems and Data Science" # TODO: ADJUST TO HAVE MENTION TO VCSI AND HYPERLINK + Computational Social Science, Complex Systems and Economics
@@ -203,7 +203,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "/n/n"
 incremental: false
 
 
