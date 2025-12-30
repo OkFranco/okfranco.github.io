@@ -23,7 +23,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-    avatar: "profile.png"
+    avatar: "..\files\main\João Franco - Profile Figure.jpg"
     name: "João Franco"
     pronouns: # example: "she/her"
     bio: "PhDing in Complex Systems and Data Science at [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/)" #Computational Social Science, Complex Systems and Economics
