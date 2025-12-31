@@ -27,8 +27,8 @@ author:
   name             : "João Franco"
   pronouns         : # example: "she/her"  
   bio              : "PhDing in Complex Systems and Data Science"
-  location         : "" #"Burlington, Vermont, USA"
-  employer         : "" #"Vermont Complex Systems Institute"
+  location         : "Burlington, Vermont, USA"
+  #employer         : "" #"Vermont Complex Systems Institute"
   uri              : # URL
   email            : "joao.franco@uvm.edu" 
 
