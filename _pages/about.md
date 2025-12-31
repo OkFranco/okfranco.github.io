@@ -13,7 +13,9 @@ I am a PhD student in Complex Systems and Data Science at the [Vermont Complex S
 
 My research focuses on understanding complex social dynamics, particularly how beliefs form and evolve, and how algorithmic systems, psychological processes, and social interactions influence these changes. I combine theoretical modelling with empirical analysis to investigate these phenomena.
 
-Before moving to the Green Mountain State, I collaborated with the [Social Physics & Complexity Lab](https://socialcomplexity.eu/), led by Professor Joana Gonçalves de Sá, on an ERC-funded project investigating algorithmic biases in search engines and large language models. Before that, I was a [roller hockey](https://www.youtube.com/watch?v=qx1tXLwHNU0) player, now turned into a passionate supporter.
+Before moving to the Green Mountain State, I collaborated with the [Social Physics & Complexity Lab](https://socialcomplexity.eu/), led by Professor Joana Gonçalves de Sá, on an ERC-funded project investigating algorithmic biases in search engines and large language models. 
+
+Above all, I am a retired [roller hockey](https://www.youtube.com/watch?v=qx1tXLwHNU0) player, now turned into a passionate supporter.
 
 You can reach me at [joao.franco@uvm.edu](mailto: joao.franco@uvm.edu).
 
