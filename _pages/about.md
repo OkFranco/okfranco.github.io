@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Complex Systems and Data Science at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/).
+I am a PhD student in Complex Systems and Data Science at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/), collaborating with [The Joint Lab](https://joint-lab.github.io/) and [Computational Ethics Lab](https://www.compethicslab.org/).
 
 
 My research focuses on understanding complex social dynamics, with a keen interest on modelling belief dynamics — how beliefs form and evolve, and the impact of algorithmic, psychological and social factors on these processes - and on analsying belief dynamics from large-scale data. 
@@ -20,6 +20,9 @@ I am also a retired [roller hockey](https://www.youtube.com/watch?v=qx1tXLwHNU0)
 
 
 You can reach me at [joao.franco@uvm.edu](mailto: joao.franco@uvm.edu).
+
+Full CV available [here]() (pdf).
+
 
 <!-- 
 
