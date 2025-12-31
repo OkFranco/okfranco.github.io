@@ -26,7 +26,7 @@ author:
   avatar           : "Profile_Figure.jpg"
   name             : "João Franco"
   pronouns         : # example: "she/her"  
-  bio              : "PhD(ing) in Complex Systems and <br>Data Science"
+  bio              : "PhD(ing) in Complex Systems and Data Science"
   location         : "Burlington, Vermont, USA"
   #employer         : "" #"Vermont Complex Systems Institute"
   uri              : # URL
