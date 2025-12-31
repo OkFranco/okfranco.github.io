@@ -20,11 +20,18 @@ $border                    : mix(#000, $background, 20%);
 $border-dark               : mix(#000, $background, 30%);
 
 /* Color codes used for the site */
-$danger-color               : #cc6666;
-$info-color                 : #81a2be;
-$notice-color               : #de935f;
-$success-color              : #b5bd68;
-$warning-color              : #f0c674;
+// $danger-color               : #cc6666;
+// $info-color                 : #81a2be;
+// $notice-color               : #de935f;
+// $success-color              : #b5bd68;
+// $warning-color              : #f0c674;
+$danger-color   : mix(#fff, #b55252, 15%);
+$info-color     : mix(#fff, #5b7c99, 15%);
+$notice-color   : mix(#fff, #c07a2d, 15%);
+$success-color  : mix(#fff, #6f8f5f, 15%);
+$warning-color  : mix(#fff, #d2a24c, 15%);
+
+
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
