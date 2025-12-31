@@ -2,22 +2,25 @@
     OKFRANCO THEME - DARK VERSION
     ========================================================================== */
 /* === Dark theme aligned with light theme === */
-$primary-color        : #e6e6e6;   // soft off-white primary
-$dark-primary-color   : mix(#000, $primary-color, 30%);
-$darker-primary-color : mix(#000, $primary-color, 55%);
-$light-primary-color  : mix(#fff, $primary-color, 20%);
-$lighter-primary-color: mix(#fff, $primary-color, 40%);
-$background           : #121212;   // deep neutral charcoal
-$background-light     : #1b1b1b;
-$background-lighter   : #232323;
-$text                 : #e6e6e6;   // matches primary
-$text-muted           : #b8b8b8;
-$link                 : #d4c2a8;   // warm parchment tone (mirrors #e8d5b7 footer)
-$link-dark            : mix(#000, $link, 25%);
-$link-light           : mix(#fff, $link, 25%);
-$footer               : #1a1a1a;   // subtle separation without visual noise
-$border               : mix(#fff, $background, 12%);
-$border-dark          : mix(#fff, $background, 20%);
+$dark-primary-color   : mix(#000, $primary-color, 30%);   // slightly muted
+$darker-primary-color : mix(#000, $primary-color, 50%);   // for strong accents
+$light-primary-color  : mix(#fff, $primary-color, 20%);   // for subtle highlights
+$lighter-primary-color: mix(#fff, $primary-color, 40%);   // very light accents
+$background           : #1a0f0a;  // dark warm background
+$background-light     : #2d1912;  // slightly lighter for panels
+$background-lighter   : #3d2a1a;  // secondary backgrounds
+$text                 : #e8d5b7;  // main readable text
+$text-muted           : #b8a590;  // muted text
+$link                 : #ff8793;  // primary link color
+$link-hover           : #ffb3bb;  // link hover / highlight
+$link-visited         : #ff5568;  // visited links
+$footer               : #2d1912;  // dark footer
+$border               : #3d2a1a;  // panel / box borders
+$border-dark          : #5a3f28;  // strong borders
+$code-bg              : #0d0806;  // code block background
+$code-bg-dark         : #0f0907;  // darker code blocks (inline code)
+
+
 // $dark-primary-color         : #ff5568;
 // $darker-primary-color       : #d4741f;
 // $light-primary-color        : #ffb3bb;
