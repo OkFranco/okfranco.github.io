@@ -20,7 +20,7 @@ I am also a retired [roller hockey](https://www.youtube.com/watch?v=qx1tXLwHNU0)
 
 <!-- You can reach me at [joao.franco@uvm.edu](mailto: joao.franco@uvm.edu). -->
   
-Full CV available [here](https://www.okfranco.github.io/files/CV_Joao_Franco.pdf) (pdf).
+Full CV available [here](okfranco.github.io/files/CV_Joao_Franco.pdf) (pdf).
 
 
 <!-- 
