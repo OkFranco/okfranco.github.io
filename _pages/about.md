@@ -1,11 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a PhD student in Complex Systems and Data Science at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/).
+
+
+My research focuses on understanding complex social dynamics, with a keen interest on modelling belief dynamics — how beliefs form and evolve, and the impact of algorithmic, psychological and social factors on these processes - and on analsying belief dynamics from large-scale data. 
+
+
+Before moving to the Green Mountain State, I collaborated with the [Social Physics & Complexity Lab](https://socialcomplexity.eu/), led by Professor Joana Gonçalves de Sá, on an ERC-funded project investigating algorithmic biases in search engines and large language models. 
+
+
+I am also a retired [roller hockey](https://www.youtube.com/watch?v=qx1tXLwHNU0) player turned passionate supporter.
+
+
+You can reach me at [joao.franco@uvm.edu](mailto: joao.franco@uvm.edu).
+
+<!-- 
+
+Education
+------
+
+
+
+, collaborating with both [The Joint Lab](https://joint-lab.github.io/). He also works closely with the Computational Ethics Lab.
+João's research interests lie in understanding the (complex) dynamics of social systems, with a current focus on belief dynamics — how beliefs form and evolve, and the impact of algorithmic, psychological and social factors on these processes.
+
+Before coming to Vermont, João collaborated with the Social Physics & Complexity Lab, led by Prof. Joana Gonçalves de Sá, on an ERC-funded project investigating algorithmic biases in search engines and large language models.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -53,4 +79,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
