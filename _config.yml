@@ -27,8 +27,8 @@ author:
   name             : "João Franco"
   pronouns         : # example: "she/her"  
   bio              : "PhDing in Complex Systems and Data Science"
-  location         : "Burlington, Vermont, USA"
-  employer         : "Vermont Complex Systems Institute"
+  location         : "" #"Burlington, Vermont, USA"
+  employer         : "" #"Vermont Complex Systems Institute"
   uri              : # URL
   email            : "joao.franco@uvm.edu" 
 
@@ -91,6 +91,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  available_drafts:
+    title: 'Available Drafts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
