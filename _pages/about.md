@@ -9,6 +9,8 @@ redirect_from:
 
 <!-- Website under development -->
 
+------
+
 I am a PhD student in Complex Systems and Data Science at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/), collaborating with [The Joint Lab](https://joint-lab.github.io/) and [Computational Ethics Lab](https://www.compethicslab.org/).
 
 My research focuses on understanding complex social dynamics, particularly how beliefs form and evolve, and how algorithmic systems, psychological processes, and social interactions influence these changes. I combine theoretical modelling with empirical analysis to investigate these phenomena.
@@ -24,12 +26,12 @@ Full CV available [here](https://okfranco.github.io/files/CV_Joao_Franco.pdf) (p
 
 
 
-Education
+News
 ------
 
+- New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). Work from my time at [Social Physics & Complexity Lab](https://socialcomplexity.eu/). 
 
-
-, collaborating with both [The Joint Lab](https://joint-lab.github.io/). He also works closely with the Computational Ethics Lab.
+<!-- , collaborating with both [The Joint Lab](https://joint-lab.github.io/). He also works closely with the Computational Ethics Lab.
 João's research interests lie in understanding the (complex) dynamics of social systems, with a current focus on belief dynamics — how beliefs form and evolve, and the impact of algorithmic, psychological and social factors on these processes.
 
 Before coming to Vermont, João collaborated with the Social Physics & Complexity Lab, led by Prof. Joana Gonçalves de Sá, on an ERC-funded project investigating algorithmic biases in search engines and large language models.
@@ -42,7 +44,7 @@ A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
