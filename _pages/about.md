@@ -29,7 +29,7 @@ Full CV available [here](https://okfranco.github.io/files/CV_Joao_Franco.pdf) (p
 News
 ------
 
-- New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). Work from my time at [Social Physics & Complexity Lab](https://socialcomplexity.eu/). 
+- New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). 
 
 <!-- , collaborating with both [The Joint Lab](https://joint-lab.github.io/). He also works closely with the Computational Ethics Lab.
 João's research interests lie in understanding the (complex) dynamics of social systems, with a current focus on belief dynamics — how beliefs form and evolve, and the impact of algorithmic, psychological and social factors on these processes.
