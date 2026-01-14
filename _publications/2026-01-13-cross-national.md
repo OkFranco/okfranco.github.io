@@ -2,7 +2,7 @@
 title: <i>&quot;Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections&quot</i>
 collection: publications
 category: manuscripts
-<!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
+-- permalink: /publication/2026
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-01-12
 paperurl: 'https://arxiv.org/abs/2601.05826'
