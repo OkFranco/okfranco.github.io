@@ -13,13 +13,13 @@ author_profile: true
 
 
 <!-- Loop over all publications, newest first -->
-<ul>
+<ul class="publications-list">
 {% for post in site.publications reversed %}
   <li>
-    **{{ post.title }}**<br />
+    <strong>{{ post.title }}</strong><br>
     {{ post.citation }}
     {% if post.paperurl %}
-      ; [arXiv]({{ post.paperurl }})
+      ; <a href="{{ post.paperurl }}">arXiv</a>
     {% endif %}
   </li>
 {% endfor %}
@@ -30,7 +30,6 @@ author_profile: true
 <p style="font-size: 0.9em;">
   <sup>†</sup> These authors contributed equally to this work.
 </p>
-
 
 
 <!-- New style rendering if publication categories are defined
