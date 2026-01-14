@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications.html
 author_profile: true
 ---
 
@@ -17,9 +17,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   <li>
     <strong>{{ post.title }}</strong><br>
-    {{ post.citation }}
+    {{ post.authors }}
     {% if post.paperurl %}
-      ; <a href="{{ post.paperurl }}">arXiv</a>
+      ; <a href="{{ post.paperurl }}">{{ post.journal }}</a>
     {% endif %}
   </li>
 {% endfor %}
