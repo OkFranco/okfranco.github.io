@@ -20,18 +20,14 @@ author_profile: true
 {% for post in site.publications reversed %}
   <li>
     **{{ post.title }}**<br />
-    {% if post.citation %}
-      {{ post.citation }}
-    {% else %}
-      {% if post.authors %}{{ post.authors }}; {% endif %}
-      {% if post.paperurl %}[Paper]({{ post.paperurl }}){% endif %}
-      {% if post.slidesurl %} [Slides]({{ post.slidesurl }}){% endif %}
-      {% if post.bibtexurl %} [BibTeX]({{ post.bibtexurl }}){% endif %}
-      {% if post.date %} ({{ post.date | date: "%Y" }}){% endif %}
+    {{ post.citation }}
+    {% if post.paperurl %}
+      ; [arXiv]({{ post.paperurl }})
     {% endif %}
   </li>
 {% endfor %}
 </ul>
+
 
 <!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
