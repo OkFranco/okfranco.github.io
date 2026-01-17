@@ -21,7 +21,9 @@ author_profile: true
     {% if post.paperurl %}
       ; <a href="{{ post.paperurl }}">{{ post.journal }}</a>
     {% endif %}
-    {{ post.date}}
+    {% if post.date %}
+        <span class="pub-date"> ({{ post.date | date: "%Y" }})</span>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
