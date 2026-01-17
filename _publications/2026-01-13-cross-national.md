@@ -1,5 +1,5 @@
 ---
-title: &quot;Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections&quot
+title: "Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections"
 collection: publications
 category: manuscripts
 -- permalink: /publication/2026
