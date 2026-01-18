@@ -3,7 +3,7 @@ title: "Cross-National Evidence of Disproportionate Media Visibility for the Rad
 collection: publications
 category: manuscripts
 -- permalink: /publication/2026
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the  number 1. The number 2 is left for future work.'
 date: 2026
 paperurl: 'https://arxiv.org/abs/2601.05826'
 journal: <i>arXiv
