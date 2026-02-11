@@ -29,6 +29,9 @@ Full CV available [here](https://okfranco.github.io/files/CV_Joao_Franco.pdf) (p
 News
 ------
 
+- Feb. 2026: Received confirmation on presentation of project "Bridging Simple and Complex Contagions in Belief Dynamics: A Voter Model Extension" in [NEERCS 2026](https://nerccs2026.github.io/) on March 11th, in Rochester, NY.  
+
+
 - Jan. 2026: New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). 
 
 - 2025: Joined [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/) as a PhD student, collaborated with the [Social Physics & Complexity Lab](https://socialcomplexity.eu/), and attended the [Complex Networks Winter Workshop](https://vermontcomplexsystems.org/events/cnww/) in Quebec!
