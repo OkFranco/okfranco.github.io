@@ -29,8 +29,7 @@ Full CV available [here](https://okfranco.github.io/files/CV_Joao_Franco.pdf) (p
 News
 ------
 
-- Feb. 2026: Received confirmation on presentation of project "Bridging Simple and Complex Contagions in Belief Dynamics: A Voter Model Extension" in [NEERCS 2026](https://nerccs2026.github.io/) on March 11th, in Rochester, NY.  
-
+- Feb. 2026: The project, “Bridging Simple and Complex Contagions in Belief Dynamics: A Voter Model Extension,” has been accepted for presentation at [NEERCS 2026](https://nerccs2026.github.io/) on March 11 in Rochester, NY.
 
 - Jan. 2026: New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). 
 
