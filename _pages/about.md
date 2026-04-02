@@ -29,6 +29,8 @@ Full CV available [here](https://okfranco.github.io/files/CV_Joao_Franco.pdf) (p
 News
 ------
 
+- Mar. 2026: New pre-print is out: [Evidence of political bias in search engines and language models before major elections](https://arxiv.org/pdf/2603.23474). 
+
 - Mar. 2026: I gave a talk on the project, "Bridging Simple and Complex Contagions in Belief Dynamics: A Voter Model Extension" at [NERCCS 2026](https://nerccs2026.github.io/) on March 11 in Rochester, NY. The project has also been accepted for a poster presentation at [NetSci 2026](https://www.netsci2026.com/) on June 1-6 in Boston, MA.
 
 - Jan. 2026: New (and first ever!) pre-print is out: [Cross-National Evidence of Disproportionate Media Visibility for the Radical Right in the 2024 European Elections](https://arxiv.org/abs/2601.05826). 
