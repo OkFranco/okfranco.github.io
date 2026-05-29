@@ -5,7 +5,7 @@ category: manuscripts
 -- permalink: /publication/2026
 date: 2026-03-24
 paperurl: 'https://arxiv.org/pdf/2603.23474'
-journal: <i>arXiv
+journal: <i>arXiv</i>
 authors: I. Damião, P. Almeida, <strong>J. Franco</strong>, N. Santos, P. Magalhães, J. Gonçalves-Sá (2026)
 ---
 

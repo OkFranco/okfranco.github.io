@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: 'This paper is about the  number 1. The number 2 is left for future work.'
 date: 2026-01-09
 paperurl: 'https://arxiv.org/abs/2601.05826'
-journal: <i>arXiv
-authors: <strong>J. Franco</strong><sup>†</sup>, I. Damião<sup>†</sup>, M. Silva, P. Almeida, P. Magalhães, J. Gonçalves-Sá (2026)
+journal: <i>arXiv</i>
+authors: <strong>J. Franco<sup>†</sup>, I. Damião<sup>†</sup>, M. Silva, P. Almeida, P. Magalhães, J. Gonçalves-Sá (2026)
 ---
 
